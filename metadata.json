@@ -1,0 +1,6 @@
+{
+  "name": "VIKARNA – Think Before You Follow",
+  "description": "A 2D story-driven mystery adventure game for children inspired by Vikarna from the Mahabharata, encouraging observation, evidence gathering, and critical thinking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
